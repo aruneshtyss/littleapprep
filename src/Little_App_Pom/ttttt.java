@@ -2,6 +2,9 @@ package Little_App_Pom;
 
 public class ttttt {
 	
-	//test asdasjkldjaskldjkl
+	private void syso() {
+		System.out.println("github");
+
+	}
 
 }
